@@ -1,2 +1,2 @@
-# RTS game : IA vs Player
+# RTS game : AI vs Player
 In this game, the player is against an AI and must survive to 3 differents AI attacks
